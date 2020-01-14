@@ -1,4 +1,4 @@
-# Doctor-Patient-Networks
+# Opioid-Insurance
 
 <p align="center">
   <img src="./Images/Figure.png" height="500">
